@@ -13,7 +13,7 @@ To develop this app I am using ReactJS. Other library that has been used is:
 ## Screenshots
 
 Home Page
-![App Screenshot](https://drive.google.com/file/d/1yhNr2CABDEl9y_GIvgJCLdI1YEjs6QS0/view?usp=share_link)
+![App Screenshot](https://raw.githubusercontent.com/faizzmarzuki/Weather-App/main/Screenshot/Home.png?token=GHSAT0AAAAAACBUKH5EECD2CSOI4SWE4IZ2ZDN47VA)
 
 Details Page
-![App Screenshot](https://drive.google.com/file/d/1yhNr2CABDEl9y_GIvgJCLdI1YEjs6QS0/view?usp=share_link)
+![App Screenshot](https://raw.githubusercontent.com/faizzmarzuki/Weather-App/main/Screenshot/Details.png?token=GHSAT0AAAAAACBUKH5EENDJPE3V2VXQC4GSZDN5ABA)
