@@ -11,7 +11,7 @@ const WeatherForecast = () => {
     const fetchForecast = async () => {
       try {
         const response = await axios.get(
-          "https://api.openweathermap.org/data/2.5/forecast?q=durian%20tunggal&units=metric&appid=bbb9bed660370bc703db336d4f0e2faa"
+          "https://api.openweathermap.org/data/2.5/forecast?q=durian%20tunggal&units=metric&appid={API_KEY}"
         );
         setForecast(response.data.list);
       } catch (error) {
